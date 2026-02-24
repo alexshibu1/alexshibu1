@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Alex Shibu
-- 👀 I love making things, creating art, and shipping cool shit!
+### Hey folks! 👋
+
+I’m Alex Shibu, a 21 year old from Toronto. I love building things, creating art, and shipping cool shit!
 - 📫 HMU on X @alexshibu2
   
 ![Profile Views](https://komarev.com/ghpvc/?username=alexshibu1&style=for-the-badge)
