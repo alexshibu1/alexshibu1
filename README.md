@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex Shibu
-- 👀 I’m interested in BUIDING AND SHIPING COOL SHIT! -> even at a cool company.  
-- 📫 HMU let's talk. @alexshibu2 twitter
+- 👀 I love making things, creating art, and shipping cool shit!
+- 📫 HMU on X @alexshibu2
   
 ![Profile Views](https://komarev.com/ghpvc/?username=alexshibu1&style=for-the-badge)
 <!---
