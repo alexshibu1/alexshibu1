@@ -1,4 +1,4 @@
-### Hey folks! 👋
+### Hey Folks! 👋
 
 I’m Alex Shibu, a 21 year old from Toronto. I love building things, creating art, and shipping cool shit!
 - 📫 HMU on X @alexshibu2
