@@ -13,10 +13,6 @@ I build AI systems that help people make better decisions.
 
 **[WagerAI](https://github.com/alexshibu1/wagerai)** — Wagering platform with real-time odds and a performance-tracking analytics dashboard.
 
-
-[![healthOS](https://github-readme-stats.vercel.app/api/pin/?username=alexshibu1&repo=healthOS&hide_border=true)](https://github.com/alexshibu1/healthOS)
-[![WagerAI](https://github-readme-stats.vercel.app/api/pin/?username=alexshibu1&repo=wagerai&hide_border=true)](https://github.com/alexshibu1/wagerai)
-
 #### 🧰 Stack
 **Languages** — Python · TypeScript · JavaScript · SQL
 **ML / Data** — pandas · NumPy · SciPy · vector search · OpenAI API
@@ -37,4 +33,3 @@ I build AI systems that help people make better decisions.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alexshibu1&style=for-the-badge)
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexshibu1&show_icons=true&hide_border=true&count_private=true)
