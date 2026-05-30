@@ -8,7 +8,7 @@ I build AI systems that help people make better decisions.
 - **Open Drones** — drone-based AI for precision agriculture in Kerala: pest control, terrain navigation, and nutrient-deficiency diagnosis for coffee, pepper, and coconut.
 
 #### 🛠️ Selected work
-**[healthOS](https://github.com/alexshibu1/healthOS)** — Personal health intelligence layer. Fuses data no single consumer app combines — wearable HRV, blood-panel CBC differential (NLR), workout decoupling, sleep regularity — into a composite readiness score, a bio-age proxy, and ranked interventions. State-machine scoring instead of weighted sums, every formula spec'd and literature-cited, 45 tests passing.
+**[healthOS](https://github.com/alexshibu1/healthOS)** — Personal health intelligence layer. Fuses data no single consumer app combines wearable HRV, blood-panel CBC differential (NLR), workout decoupling, sleep regularity into a composite readiness score, a bio-age proxy, and ranked interventions. State-machine scoring instead of weighted sums, every formula spec'd and literature-cited, 45 tests passing.
 
 
 **[WagerAI](https://github.com/alexshibu1/wagerai)** — Wagering platform with real-time odds and a performance-tracking analytics dashboard.
