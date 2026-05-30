@@ -26,7 +26,7 @@ I build AI systems that help people make better decisions.
 - **LinkedIn** → [in/alexshibu](https://linkedin.com/in/alexshibu)
 - **YouTube** → [@alexshibu](https://www.youtube.com/@alexshibu/videos)
 - **Instagram** → [@alexshibu1](https://instagram.com/alexshibu1)
-- **Email** → alexshibu04@gmail.com
+- **Email** → alexshibu04+github@gmail.com
 
 ---
 
