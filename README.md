@@ -1,4 +1,4 @@
-### Hey, I'm Alex 👋
+### Hey, I'm Alex Shibu 👋
 
 Toronto-based founder. Physics + CS at the University of Toronto.
 I build AI systems that help people make better decisions.
