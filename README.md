@@ -14,10 +14,15 @@ I build AI systems that help people make better decisions.
 
 #### 🧰 Stack
 **Languages** — Python · TypeScript · JavaScript · SQL
+
 **ML / Data** — pandas · NumPy · vector search · OpenAI API
+
 **Backend** — Flask · Node · Next.js · Supabase 
+
 **Frontend** — React · Vite · Tailwind
+
 **Voice / Realtime** — ElevenLabs · Twilio
+
 **Infra** — AWS · Vercel · Git
 
 #### 🌐 Find me
