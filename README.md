@@ -1,7 +1,7 @@
 ### Hey, I'm Alex Shibu 👋
 
 Toronto-based founder. Physics + CS at the University of Toronto.
-I build AI systems that help people make better decisions.
+I build AI systems that help people make better decisions. 
 
 #### 🔭 Currently building
 - **Avalonn** — 24/7 voice AI for SMBs (plumbing, HVAC, retail). Answers in under 8 seconds, books jobs, syncs CRM, escalates emergencies over SMS.
@@ -14,10 +14,10 @@ I build AI systems that help people make better decisions.
 
 #### 🧰 Stack
 **Languages** — Python · TypeScript · JavaScript · SQL
-**ML / Data** — pandas · NumPy · SciPy · vector search · OpenAI API
-**Backend** — Flask · Node · Next.js · Supabase · Postgres
-**Frontend** — React · Vite · Tailwind · Recharts · Framer Motion
-**Voice / Realtime** — ElevenLabs · Twilio · Google Cloud TTS
+**ML / Data** — pandas · NumPy · vector search · OpenAI API
+**Backend** — Flask · Node · Next.js · Supabase 
+**Frontend** — React · Vite · Tailwind
+**Voice / Realtime** — ElevenLabs · Twilio
 **Infra** — AWS · Vercel · Git
 
 #### 🌐 Find me
@@ -27,6 +27,8 @@ I build AI systems that help people make better decisions.
 - **YouTube** → [@alexshibu](https://www.youtube.com/@alexshibu/videos)
 - **Instagram** → [@alexshibu1](https://instagram.com/alexshibu1)
 - **Email** → alexshibu04+github[@]gmail.com
+
+Say Hi! 👋
 
 ---
 
